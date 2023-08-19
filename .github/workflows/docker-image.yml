@@ -7,7 +7,7 @@ on:
   #   branches: [ "main" ]
 env:
   REGISTRY: 'registry.digitalocean.com/trustytribe'
-  IMAGE_NAME: 'Breadcrumbsdjango-docker-quickstart'
+  IMAGE_NAME: 'django-docker-quickstart'
 jobs:
   build:
     runs-on: ubuntu-latest
